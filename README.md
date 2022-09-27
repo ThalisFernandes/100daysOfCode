@@ -1,2 +1,2 @@
-# 100daysOfCode
-repositorio para o desafio 100 dias de código
+# 100daysOfJavaScript
+repositorio para o desafio 100 dias de Javascript

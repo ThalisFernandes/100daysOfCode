@@ -1,6 +1,137 @@
 # 100daysOfJavaScript
 repositorio para o desafio 100 dias de Javascript
 
-- dia 1 : filter, map e reduce;
-- dia 2 : Built-in Objects;
+
+# 100 dias de Código
+
+## 1:30 por dia de código com 3 ciclos de 30 minutos com pausas de 10 minutos;
+
+- dia 1 array methods
+    - filter, map, reduce
+- dia 2 reduce, me aprofundando no reduce e o que pode ser feito com reduce;
+- dia 3 objetos
+    - built-in Objects
+- dia 4 Objetos
+    - Object - prototype
+- dia 5 Objetos
+    - Prototypal inheritance
+- dia 6 type casting
+    - explicit/implicit type casting
+- dia 7 type casting
+    - type conversion vs coersion
+- dia 8 Data Structure
+    - indexed collections
+        - typed array
+        - arrays
+- dia 9 Data structure
+    - Keyed Colections
+        - map
+        - weak map
+- dia 10 Data Structure / Keyed Colections
+    - set
+    - weak set
+- dia 11 Structured Data
+    - JSON
+- dia 12 equality algorithms
+    - isLosellyequals
+    - isStrictequal
+    - same value zero
+    - same value
+- dia 13 equality algorithms
+    - Object.is
+    - ===
+    - ==
+- dia 14  Labeled Statement
+- dia 15 throw statement
+- dia 16 try/catch /finally
+- dia 17 error Objects
+- dia 18 IIFE’s
+- dia 19 Exercicios sobre IIFE’s
+- dia 20 argument Object
+- dia 21 Scope & function Stack
+    - Recursion
+- dia 22 Scope & function Stack
+    - Lexical Scoping
+- dia 23 Scope & function Stack
+    - Closures
+- dia 24 Bitwise operator
+- dia 25 BigInt Operator
+- dia 26 Relational Operator
+- dia 27 strict mode
+- dia 28 This keyword
+- dia 29 Function borrowing
+- dia 30 this in Methods
+- dia 30 This in a function
+- dia 32 Using this alone
+- dia 33 In event handlers
+- dia 34 in arrow Functions
+- dia 35 Explicit binding
+    - call
+    - apply
+    - bind
+- dia 36 Async Javascript
+- dia 37  Callback
+- dia 38 callback hell
+- dia 39  promises
+- dia 40 Async Await
+- dia 41 setTimeout
+- dia 42 set interval
+- dia 43 classes
+- dia 44 Modules in Javascript
+- dia 45 CommonJs
+- dia 46 ECMAScript Modules
+- dia 47 debugging Issues
+- dia 48 Using Chrome Dev Tools
+- dia 49 Iterators and Generators
+- dia 50 Iterators and Generators pt2
+- dia 51 Iterators and Generators pt3
+- dia 52 Memory management
+- dia 53 Memory management pt2
+- dia 54 Memory Management pt3
+- dia 55 Event loop
+- dia 56 Method Chaining
+- dia 57 Regular expression
+- dia 58 Regular Expression
+- dia 59 Cookies
+- dia 60 Cookies
+- dia 61 Web Storage
+- dia 62 Web storage
+- dia 63 Data attributes
+- dia 64 AJAX
+- dia 65 AJAX
+- dia 66 ajax
+- dia 67 web Sockets
+- dia 68 web sockets
+- dia 69 web sockets
+- dia 70 workers
+- dia 71 workers
+- dia 72 workers
+- dia 73 decorator
+- dia 74 decorator
+- dia 75 decorator
+- dia 76 requestanimation frame
+- dia 77 location
+- dia 78 geolocation
+- dia 79 indexedDB
+- dia 80 indexedDB
+- dia 81 Modularization techniques
+- dia 82 Proxy
+- dia 83 postmessage and messageEvents
+- dia 84 Behavioral Design pattern
+- dia 85 Using javascript to get/set css custom variable
+- dia 86 Creational Design pattern
+- dia 87 Transpiling
+- dia 88 server sent events
+- dia 89 async-iterators
+- dia 90 Anti patterns
+- dia 91 Linters
+- dia 92 - performance tips
+- dia 93 performance tips
+- dia 94 performance tips
+- dia 95 performance tips
+- dia 96 performance tips
+- dia 97 Web cryptography api
+- dia 98 Memory efficience
+- dia 99 Memory Efficience
+- dia 100 Memory Efficience
 
